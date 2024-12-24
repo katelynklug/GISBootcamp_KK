@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, December 24, 2024 12:18:17 AM</msg><msg code="0" type="50">Failed to convert: C:\GISBootcamp\Data\RDS-2013-0009.4_Data_Format2_GDB\Data\FPA_FOD_20170508.gdb\Fires. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="3">Succeeded at Tuesday, December 24, 2024 12:18:18 AM (Elapsed Time: 1.75 seconds)</msg></messages>

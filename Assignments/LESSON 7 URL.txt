@@ -1,0 +1,3 @@
+https://developers.arcgis.com/python-2-3/samples/california-wildfires-2017-thomas-fire-analysis/
+
+https://github.com/esri/arcgis-python-api/blob/master/samples/04_gis_analysts_data_scientists/california_wildfires_2017_thomas_fire_analysis.ipynb
